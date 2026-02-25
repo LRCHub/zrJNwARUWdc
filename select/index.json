@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "美しく燃える森",
+  "base_artist": "東京スカパラダイスオーケストラ",
+  "createdAt": "2026-02-25T13:12:57.713862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "美しく燃える森",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": true,
+      "path": "select/01_美しく燃える森_東京スカパラダイスオーケストラ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "美しく燃える森",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/02_美しく燃える森_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "美しく燃える森",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": true,
+      "path": "select/03_美しく燃える森_東京スカパラダイスオーケストラ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "美しく燃える森 feat.奥田民生 [2020 Remaster]",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": true,
+      "path": "select/04_美しく燃える森_feat.奥田民生_[2020_Remaster]_東京スカパラダイスオーケストラ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "美しく燃える森 ... Unknown Forest of Fire",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/05_美しく燃える森_..._Unknown_Forest_of_Fire_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "美しく燃える森 ... Unknown Forest of Fire",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": true,
+      "path": "select/06_美しく燃える森_..._Unknown_Forest_of_Fire_東京スカパラダイスオーケストラ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "美しく燃える森 - feat.奥田民生 [2020 Remaster]",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/07_美しく燃える森_-_feat.奥田民生_[2020_Remaster]_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "美しく燃える森 (FPM Bootleg House mix)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_美しく燃える森_(FPM_Bootleg_House_mix)_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "美しく燃える森",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": false,
+      "path": "select/pl_01_美しく燃える森_東京スカパラダイスオーケストラ.txt"
+    }
+  ]
+}
